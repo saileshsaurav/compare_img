@@ -1,5 +1,3 @@
 # compare_img
 
-goal is to comapre two similar images with slight differences
-hello
-2
+Goal is to compare two images.
