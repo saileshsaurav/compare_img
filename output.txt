@@ -1,0 +1,7 @@
+Difference occurred at:<PIL.Image.Image image mode=RGB size=1920x1080 at 0x3ED6AF0>
+Traceback (most recent call last):
+  File "E:/Python/PyProgs/image_comparison/test_img.py", line 33, in <module>
+    test_img("image1.png", "image2.png")
+  File "E:/Python/PyProgs/image_comparison/test_img.py", line 26, in test_img
+    assert diff.getbbox == diff
+AssertionError
